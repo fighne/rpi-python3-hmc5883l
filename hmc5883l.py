@@ -6,7 +6,7 @@
 # but uses smbus rather than quick2wire and sets some different init
 # params.
 
-import smbus
+import smbus2
 import math
 import time
 import sys
